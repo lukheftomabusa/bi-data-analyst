@@ -1,0 +1,2 @@
+from crewai import Agent
+agent = Agent(from_repository="business-intelligence-data-analyst-agent-core-mission-a-business-intelligence-data-analyst-agent-is-a-hybrid-expert-who-bridges-the-gap-between-data-discovery-and-decision-intelligence-this-role-not-only-analyzes-raw-data-for-insights-but-also-builds-automated-bi-systems-and-dashboards-that-continuously-empower-business-leaders-to-make-smarter-faster-data-driven-decisions")
